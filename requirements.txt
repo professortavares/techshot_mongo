@@ -1,0 +1,9 @@
+numpy
+pandas
+jupyterlab
+matplotlib
+seaborn
+sklearn
+pymongo
+plotly
+Faker
