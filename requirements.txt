@@ -7,3 +7,5 @@ sklearn
 pymongo
 plotly
 Faker
+mongoengine
+unidecode
