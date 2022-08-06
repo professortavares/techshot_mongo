@@ -9,3 +9,4 @@ plotly
 Faker
 mongoengine
 unidecode
+pandasql
